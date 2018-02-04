@@ -79,7 +79,7 @@ Rien
 #### Séance 2 : From small to big data
 
 📆 
-A définir
+06/02, 10h-13h
 
 
 📖 
@@ -88,10 +88,10 @@ Rob Kitchin, *The Data Revolution* : Chapitres 2 et 4
 #### Séance 3 : Open Data
 
 📆 
-A définir
+13/02, 11h-13h
 
 📖
-Rob Kitchin, *The Data Revolution* : Chapitres 2 et 4
+Rob Kitchin, *The Data Revolution* : Chapitre 3
 
 ---
 #Organisation des séances
@@ -99,40 +99,33 @@ Rob Kitchin, *The Data Revolution* : Chapitres 2 et 4
 #### Séance 4 : Crowdsourced data
 
 📅 
-1/02, 11h-13h
+19/02, 11h-13h
 
 📖
-A définir
+Denis Jérôme et Pontille David, « Une infrastructure élusive » Aménagements cyclables et troubles de la description dans OpenStreetMap, Réseaux,  2013/2
 
 #### Séance 5 : Data visualisation
 
 📆 
-A définir
+21/02, 13h-15h
 
 
 📖 
-A définir
-
-#### Séance 6 : Data journalism
-
-📆 
-A définir
-
-📖
-A définir
+Manuel de data visualisation
 
 ---
 #Organisation des séances
 
-#### Séance 7 : Data science
+#### Séance 6 : Data science
 
 📅 
-A définir
+26/02, 16h-18h
 
 📖
-A définir
+Éric Dagiral et Sylvain Parasie, [La « science des données » à la conquête des mondes sociaux : ce que le « Big Data » doit aux épistémologies locales](http://books.openedition.org/cdf/4999)
 
-#### Séance 8 : Open Knowledge
+
+#### Séance 7 : Open Knowledge
 
 📆 
 A définir
